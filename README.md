@@ -1,4 +1,4 @@
-# OST WrStat
+# OST WrStat Taschenrechner Script
 ## Beschreibung
 Mit diesem Taschenrechnerscript kann die WrStat Prüfung an der Ost einfacher absolviert werden.
 Das Script übernimmt den grossen Rechenaufwand, der bei einigen Aufgaben anfällt.
