@@ -5,6 +5,10 @@ Das Script übernimmt den grossen Rechenaufwand, der bei einigen Aufgaben anfäl
 
 Die Beigelegten Vorlagen sind direkt dafür ausgelegt, dass die vom Script berechneten Resultate einfach abgefüllt werden können.
 
+> [!NOTE]
+> Ich hoffe es hilft Dir a de Prüfig. =)<br>
+> LG Alex Krieg
+
 ## Features
 ### Hypothesentests
  * **Smirnov Test**<br>
